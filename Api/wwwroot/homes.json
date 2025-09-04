@@ -1,0 +1,1003 @@
+[
+  {
+    "HomeId": "123",
+    "HomeName": "Home 1",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16",
+      "2025-07-17"
+    ]
+  },
+  {
+    "HomeId": "456",
+    "HomeName": "Home 2",
+    "AvailableSlots": [
+      "2025-07-17",
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "789",
+    "HomeName": "Home 3",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16"
+    ]
+  },
+  {
+    "HomeId": "1000",
+    "HomeName": "Home 4",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-17",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1001",
+    "HomeName": "Home 5",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16"
+    ]
+  },
+  {
+    "HomeId": "1002",
+    "HomeName": "Home 6",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-17",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1003",
+    "HomeName": "Home 7",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1004",
+    "HomeName": "Home 8",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1005",
+    "HomeName": "Home 9",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1006",
+    "HomeName": "Home 10",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-18",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1007",
+    "HomeName": "Home 11",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-17",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1008",
+    "HomeName": "Home 12",
+    "AvailableSlots": [
+      "2025-07-18",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1009",
+    "HomeName": "Home 13",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-17"
+    ]
+  },
+  {
+    "HomeId": "1010",
+    "HomeName": "Home 14",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-17"
+    ]
+  },
+  {
+    "HomeId": "1011",
+    "HomeName": "Home 15",
+    "AvailableSlots": [
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1012",
+    "HomeName": "Home 16",
+    "AvailableSlots": [
+      "2025-07-17"
+    ]
+  },
+  {
+    "HomeId": "1013",
+    "HomeName": "Home 17",
+    "AvailableSlots": [
+      "2025-07-17",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1014",
+    "HomeName": "Home 18",
+    "AvailableSlots": [
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1015",
+    "HomeName": "Home 19",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-18",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1016",
+    "HomeName": "Home 20",
+    "AvailableSlots": [
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1017",
+    "HomeName": "Home 21",
+    "AvailableSlots": [
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1018",
+    "HomeName": "Home 22",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1019",
+    "HomeName": "Home 23",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16",
+      "2025-07-18",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1020",
+    "HomeName": "Home 24",
+    "AvailableSlots": [
+      "2025-07-16"
+    ]
+  },
+  {
+    "HomeId": "1021",
+    "HomeName": "Home 25",
+    "AvailableSlots": [
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1022",
+    "HomeName": "Home 26",
+    "AvailableSlots": [
+      "2025-07-17",
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1023",
+    "HomeName": "Home 27",
+    "AvailableSlots": [
+      "2025-07-17",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1024",
+    "HomeName": "Home 28",
+    "AvailableSlots": [
+      "2025-07-17",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1025",
+    "HomeName": "Home 29",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16",
+      "2025-07-17",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1026",
+    "HomeName": "Home 30",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-18",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1027",
+    "HomeName": "Home 31",
+    "AvailableSlots": [
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1028",
+    "HomeName": "Home 32",
+    "AvailableSlots": [
+      "2025-07-17",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1029",
+    "HomeName": "Home 33",
+    "AvailableSlots": [
+      "2025-07-16"
+    ]
+  },
+  {
+    "HomeId": "1030",
+    "HomeName": "Home 34",
+    "AvailableSlots": [
+      "2025-07-17"
+    ]
+  },
+  {
+    "HomeId": "1031",
+    "HomeName": "Home 35",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16",
+      "2025-07-17"
+    ]
+  },
+  {
+    "HomeId": "1032",
+    "HomeName": "Home 36",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-17",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1033",
+    "HomeName": "Home 37",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-18",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1034",
+    "HomeName": "Home 38",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1035",
+    "HomeName": "Home 39",
+    "AvailableSlots": [
+      "2025-07-17",
+      "2025-07-18",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1036",
+    "HomeName": "Home 40",
+    "AvailableSlots": [
+      "2025-07-18",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1037",
+    "HomeName": "Home 41",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1038",
+    "HomeName": "Home 42",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-18",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1039",
+    "HomeName": "Home 43",
+    "AvailableSlots": [
+      "2025-07-16"
+    ]
+  },
+  {
+    "HomeId": "1040",
+    "HomeName": "Home 44",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16",
+      "2025-07-18",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1041",
+    "HomeName": "Home 45",
+    "AvailableSlots": [
+      "2025-07-17",
+      "2025-07-18",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1042",
+    "HomeName": "Home 46",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-17",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1043",
+    "HomeName": "Home 47",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16",
+      "2025-07-17",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1044",
+    "HomeName": "Home 48",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1045",
+    "HomeName": "Home 49",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-17",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1046",
+    "HomeName": "Home 50",
+    "AvailableSlots": [
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1047",
+    "HomeName": "Home 51",
+    "AvailableSlots": [
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1048",
+    "HomeName": "Home 52",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-17",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1049",
+    "HomeName": "Home 53",
+    "AvailableSlots": [
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1050",
+    "HomeName": "Home 54",
+    "AvailableSlots": [
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1051",
+    "HomeName": "Home 55",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1052",
+    "HomeName": "Home 56",
+    "AvailableSlots": [
+      "2025-07-17"
+    ]
+  },
+  {
+    "HomeId": "1053",
+    "HomeName": "Home 57",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16"
+    ]
+  },
+  {
+    "HomeId": "1054",
+    "HomeName": "Home 58",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1055",
+    "HomeName": "Home 59",
+    "AvailableSlots": [
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1056",
+    "HomeName": "Home 60",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1057",
+    "HomeName": "Home 61",
+    "AvailableSlots": [
+      "2025-07-18",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1058",
+    "HomeName": "Home 62",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-17",
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1059",
+    "HomeName": "Home 63",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1060",
+    "HomeName": "Home 64",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-17",
+      "2025-07-18",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1061",
+    "HomeName": "Home 65",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16",
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1062",
+    "HomeName": "Home 66",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-17"
+    ]
+  },
+  {
+    "HomeId": "1063",
+    "HomeName": "Home 67",
+    "AvailableSlots": [
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1064",
+    "HomeName": "Home 68",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1065",
+    "HomeName": "Home 69",
+    "AvailableSlots": [
+      "2025-07-15"
+    ]
+  },
+  {
+    "HomeId": "1066",
+    "HomeName": "Home 70",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1067",
+    "HomeName": "Home 71",
+    "AvailableSlots": [
+      "2025-07-17"
+    ]
+  },
+  {
+    "HomeId": "1068",
+    "HomeName": "Home 72",
+    "AvailableSlots": [
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1069",
+    "HomeName": "Home 73",
+    "AvailableSlots": [
+      "2025-07-17",
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1070",
+    "HomeName": "Home 74",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1071",
+    "HomeName": "Home 75",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-18",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1072",
+    "HomeName": "Home 76",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16",
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1073",
+    "HomeName": "Home 77",
+    "AvailableSlots": [
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1074",
+    "HomeName": "Home 78",
+    "AvailableSlots": [
+      "2025-07-17",
+      "2025-07-18",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1075",
+    "HomeName": "Home 79",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1076",
+    "HomeName": "Home 80",
+    "AvailableSlots": [
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1077",
+    "HomeName": "Home 81",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16",
+      "2025-07-17",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1078",
+    "HomeName": "Home 82",
+    "AvailableSlots": [
+      "2025-07-18",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1079",
+    "HomeName": "Home 83",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1080",
+    "HomeName": "Home 84",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1081",
+    "HomeName": "Home 85",
+    "AvailableSlots": [
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1082",
+    "HomeName": "Home 86",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1083",
+    "HomeName": "Home 87",
+    "AvailableSlots": [
+      "2025-07-16"
+    ]
+  },
+  {
+    "HomeId": "1084",
+    "HomeName": "Home 88",
+    "AvailableSlots": [
+      "2025-07-18",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1085",
+    "HomeName": "Home 89",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16",
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1086",
+    "HomeName": "Home 90",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1087",
+    "HomeName": "Home 91",
+    "AvailableSlots": [
+      "2025-07-17",
+      "2025-07-18",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1088",
+    "HomeName": "Home 92",
+    "AvailableSlots": [
+      "2025-07-18",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1089",
+    "HomeName": "Home 93",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-17"
+    ]
+  },
+  {
+    "HomeId": "1090",
+    "HomeName": "Home 94",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1091",
+    "HomeName": "Home 95",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-17",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1092",
+    "HomeName": "Home 96",
+    "AvailableSlots": [
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1093",
+    "HomeName": "Home 97",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1094",
+    "HomeName": "Home 98",
+    "AvailableSlots": [
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1095",
+    "HomeName": "Home 99",
+    "AvailableSlots": [
+      "2025-07-16"
+    ]
+  },
+  {
+    "HomeId": "1096",
+    "HomeName": "Home 100",
+    "AvailableSlots": [
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1097",
+    "HomeName": "Home 101",
+    "AvailableSlots": [
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1098",
+    "HomeName": "Home 102",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1099",
+    "HomeName": "Home 103",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1100",
+    "HomeName": "Home 104",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-17",
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1101",
+    "HomeName": "Home 105",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-17"
+    ]
+  },
+  {
+    "HomeId": "1102",
+    "HomeName": "Home 106",
+    "AvailableSlots": [
+      "2025-07-17",
+      "2025-07-18"
+    ]
+  },
+  {
+    "HomeId": "1103",
+    "HomeName": "Home 107",
+    "AvailableSlots": [
+      "2025-07-17",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1104",
+    "HomeName": "Home 108",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-17",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1105",
+    "HomeName": "Home 109",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1106",
+    "HomeName": "Home 110",
+    "AvailableSlots": [
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1107",
+    "HomeName": "Home 111",
+    "AvailableSlots": [
+      "2025-07-17",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1108",
+    "HomeName": "Home 112",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-17"
+    ]
+  },
+  {
+    "HomeId": "1109",
+    "HomeName": "Home 113",
+    "AvailableSlots": [
+      "2025-07-17",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1110",
+    "HomeName": "Home 114",
+    "AvailableSlots": [
+      "2025-07-18",
+      "2025-07-19"
+    ]
+  },
+  {
+    "HomeId": "1111",
+    "HomeName": "Home 115",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-17",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1112",
+    "HomeName": "Home 116",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-16",
+      "2025-07-17"
+    ]
+  },
+  {
+    "HomeId": "1113",
+    "HomeName": "Home 117",
+    "AvailableSlots": [
+      "2025-07-15",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1114",
+    "HomeName": "Home 118",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-17",
+      "2025-07-19",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1115",
+    "HomeName": "Home 119",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-17",
+      "2025-07-20"
+    ]
+  },
+  {
+    "HomeId": "1116",
+    "HomeName": "Home 120",
+    "AvailableSlots": [
+      "2025-07-16",
+      "2025-07-17",
+      "2025-07-18",
+      "2025-07-20"
+    ]
+  }
+]
