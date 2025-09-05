@@ -1,5 +1,5 @@
-﻿using System.Collections.Concurrent;
-using Api.Models;
+﻿using Api.Models;
+using System.Collections.Concurrent;
 
 namespace Api.Repositories
 {

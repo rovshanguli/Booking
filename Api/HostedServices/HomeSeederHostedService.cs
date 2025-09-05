@@ -1,7 +1,6 @@
-﻿using Microsoft.Extensions.Logging;
-using System.Text.Json;
-using Api.Models;
+﻿using Api.Models;
 using Api.Repositories;
+using System.Text.Json;
 
 namespace Api.HostedServices
 {

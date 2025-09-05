@@ -1,9 +1,7 @@
-﻿using System.Globalization;
-using Api.DTOs;
+﻿using Api.DTOs;
 using Api.Models;
 using Api.Repositories;
-using Microsoft.AspNetCore.Mvc;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Globalization;
 
 namespace Api.Services
 {
@@ -16,10 +14,9 @@ namespace Api.Services
             _repo = repo;
         }
 
-
         public async Task<List<Home>> GetAvailableHomes(DateOnly startDate, DateOnly endDate, CancellationToken ct = default)
         {
-            List<DayHomesDto> perDayHomes = await GetHomeIdsPerDayAsync(startDate,endDate);
+            List<DayHomesDto> perDayHomes = await GetHomeIdsPerDayAsync(startDate, endDate);
             var result = IntersectByPivot(perDayHomes);
 
             var allHomes = await _repo.GetAllAsync();
@@ -29,11 +26,8 @@ namespace Api.Services
             return homes;
         }
 
-
         private async Task<List<DayHomesDto>> GetHomeIdsPerDayAsync(DateOnly start, DateOnly end, CancellationToken ct = default)
         {
-           
-
             var homes = await _repo.GetAllAsync();
 
             var slotSetsByHomeId = homes.ToDictionary(
@@ -62,7 +56,7 @@ namespace Api.Services
             return result;
         }
 
-        private static (string pivotDate, List<string> homeIds) IntersectByPivot(List<DayHomesDto> perDay)
+        private static (string? pivotDate, List<string> homeIds) IntersectByPivot(List<DayHomesDto> perDay)
         {
             if (perDay is null || perDay.Count == 0)
                 return (default, new List<string>());
@@ -71,7 +65,7 @@ namespace Api.Services
                 return (default, new List<string>());
 
             var ordered = perDay.OrderBy(p => p.Homes.Count).ToArray();
-            var pivotDate = ordered[0].Date;
+            string? pivotDate = ordered[0].Date;
 
             var otherSets = new List<HashSet<string>>(ordered.Length - 1);
             for (int i = 1; i < ordered.Length; i++)
