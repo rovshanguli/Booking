@@ -3,8 +3,10 @@
 Prerequisite: .NET SDK 8.0+
 
 Start the API from repo root:
+
 Windows
 dotnet run -p .\Api
+
 macOS/Linux
 dotnet run -p ./Api
 
